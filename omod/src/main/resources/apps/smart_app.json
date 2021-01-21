@@ -14,10 +14,10 @@
         "extensionPointId": "org.openmrs.referenceapplication.homepageLink",
         "type": "link",
         "label": "SMART Apps",
-        "url": "coreapps/datamanagement/dataManagement.page",
+        "url": "smartonfhir/smartApps.page",
         "icon": "icon-hdd",
         "order": 89,
-        "requiredPrivilege": "App: coreapps.dataManagement"
+        "requiredPrivilege": "App: smartonfhir.smartapps"
       }
     ]
   }
